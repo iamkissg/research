@@ -1,0 +1,4 @@
+title:: Shen et al. - 2022 - Deep Interest Highlight Network for Click-Through
+
+- pdf:: ![Shen et al. - 2022 - Deep Interest Highlight Network for Click-Through .pdf](../assets/Shen_et_al._-_2022_-_Deep_Interest_Highlight_Network_for_Click-Through_1652711033133_0.pdf)
+-
