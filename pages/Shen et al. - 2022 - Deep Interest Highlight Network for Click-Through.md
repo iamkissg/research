@@ -55,5 +55,5 @@ title:: Shen et al. - 2022 - Deep Interest Highlight Network for Click-Through
 	- “Users’ interest on the trigger item obtained by the UIN module can help extract users’ interests with respect to the target item and bring further performance improvement.” (Shen et al., 2022, p. 8)
 	- “Careful online A/B testing was conducted from 2021-06 to 2021-07. DIHN contributes up to 6.5% CTR promotion” (Shen et al., 2022, p. 8)
 - Digest
-	- "[论文精读]07—BST：Transformer在推荐领域的应用 - 知乎." https://zhuanlan.zhihu.com/p/433145820.
+	- [[论文]]
 	-
