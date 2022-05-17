@@ -1,7 +1,4 @@
-[{:block/name "1205-[论文精读]07—bst：transformer 在推荐领域的应用",
-  :block/created-at 1652749118981,
-  :block/updated-at 1652749118981}
- {:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
+[{:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
   :block/created-at 1651671997320,
   :block/updated-at 1651671997320}
  {:block/name "[论文精读]07—bst：transformer 在推荐领域的应用",
@@ -83,9 +80,6 @@
  {:block/name "推荐系统",
   :block/created-at 1652746652877,
   :block/updated-at 1652746652877}
- {:block/name "此处假设 encoder 的输入和输出是一样的 shape",
-  :block/created-at 1652749118982,
-  :block/updated-at 1652749118982}
  {:block/name "汉字测试",
   :block/created-at 1651671997324,
   :block/updated-at 1651671997324}
