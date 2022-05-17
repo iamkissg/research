@@ -10,15 +10,9 @@
  {:block/name "c",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
- {:block/name "canceled",
-  :block/created-at 1651671997315,
-  :block/updated-at 1651671997315}
  {:block/name "card",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
- {:block/name "contents",
-  :block/created-at 1651671997016,
-  :block/updated-at 1652711033855}
  {:block/name "din",
   :block/created-at 1652747524765,
   :block/updated-at 1652747524765}
@@ -33,32 +27,19 @@
   :block/updated-at 1651671997016}
  {:block/name "home page",
   :block/created-at 1652742148810,
-  :block/updated-at 1652742218486}
+  :block/updated-at 1652831193243}
  {:block/name "in-progress",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
  {:block/name "later",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
- {:block/name "logseq",
-  :block/created-at 1651671997317,
-  :block/updated-at 1651671997317}
- {:block/name "logseq dev theme",
-  :block/created-at 1651671997325,
-  :block/updated-at 1652664517680}
- {:block/name "logseq theme",
-  :block/created-at 1651671997309,
-  :block/updated-at 1651671997309}
  {:block/name "now",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
  {:block/name "readme",
   :block/created-at 1651671753120,
   :block/updated-at 1652664477541}
- {:block/name
-  "shen et al. - 2022 - deep interest highlight network for click-through",
-  :block/created-at 1652745856992,
-  :block/updated-at 1652745856992}
  {:block/name "todo",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
@@ -80,9 +61,6 @@
  {:block/name "推荐系统",
   :block/created-at 1652746652877,
   :block/updated-at 1652746652877}
- {:block/name "汉字测试",
-  :block/created-at 1651671997324,
-  :block/updated-at 1651671997324}
  {:block/name "简悦",
   :block/created-at 1652744974434,
   :block/updated-at 1652744974434}

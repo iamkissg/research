@@ -152,7 +152,7 @@
  :markdown/version 2
  :shortcuts {:ui/toggle-contents "meta+shift+c"}
  :feature/enable-journals? false
- :default-home {:page "Contents"}
+ :default-home {:page "Home Page"}
  :ui/show-brackets? true
  :journal/page-title-format "yyyyMMdd"
  :journal/file-name-format "yyyy-MM-dd"
