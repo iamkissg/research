@@ -2,7 +2,9 @@ title:: [论文精读]07—BST：Transformer 在推荐领域的应用
 tags:: [[简悦]]
 source:: https://zhuanlan.zhihu.com/p/433145820
 
-- date: {{{ltd today}}}
+- date: {{date_format|yyyyMMdd}}
+
+
 - > [📌](<http://localhost:7026/pdf/[论文精读]07—BST：Transformer 在推荐领域的应用#id=1652742827311>) DIN 的缺点：虽然使用 Attention 获取候 item 和用户历史点击的 item 的相似性，但是却并未考虑用户行为的顺序性质。
   
 
