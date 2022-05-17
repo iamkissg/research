@@ -1,8 +1,7 @@
 title:: [论文精读]07—BST：Transformer 在推荐领域的应用
-tags:: [[简悦]]
+tags:: [[简悦]] [[阿里技术]]  [[推荐系统]]  [[排序算法]]  [[精排]]  
 source:: https://zhuanlan.zhihu.com/p/433145820
-
-- date: {{date_format|yyyyMMdd}}
+date: 2022年05月17日 07:13:47
 
 
 - > [📌](<http://localhost:7026/pdf/[论文精读]07—BST：Transformer 在推荐领域的应用#id=1652742827311>) DIN 的缺点：虽然使用 Attention 获取候 item 和用户历史点击的 item 的相似性，但是却并未考虑用户行为的顺序性质。
