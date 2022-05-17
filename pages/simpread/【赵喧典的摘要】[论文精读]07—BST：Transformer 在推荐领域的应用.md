@@ -1,6 +1,6 @@
-title:: [论文精读]07—BST：Transformer 在推荐领域的应用
-tags:: [[简悦]] [[阿里技术]]  [[推荐系统]]  [[排序算法]]  [[精排]]  
+title:: 【赵喧典的摘要】[论文精读]07—BST：Transformer 在推荐领域的应用
 source:: https://zhuanlan.zhihu.com/p/433145820
+tags:: [[简悦]] [[阿里技术]]  [[推荐系统]]  [[排序算法]]  [[精排]]  
 date:: 2022年05月17日 07:13:47
 
 
