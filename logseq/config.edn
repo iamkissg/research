@@ -158,4 +158,4 @@
  :journal/file-name-format "yyyy-MM-dd"
  :favorites ["react hot module reloading" "jsplay"]
  :graph/settings {:builtin-pages? false}
- :zotero/settings-v2 {"default" {:overwrite-mode? false, :zotero-data-directory "C:\\Users\\iamkissg\\Zotero", :extra-tags ""}}}
+ :zotero/settings-v2 {"default" {:overwrite-mode? false, :zotero-data-directory "C:\\Users\\iamkissg\\Zotero", :extra-tags "", :type-id "6214783"}}}
