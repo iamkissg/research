@@ -1,4 +1,4 @@
-tags:: [[zotero]] [[Paper Highlights]]
+tags:: [[zotero]] [[paper_highlights]]
 
 # ABSTRACT
 
