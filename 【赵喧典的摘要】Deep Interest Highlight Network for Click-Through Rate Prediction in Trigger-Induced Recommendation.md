@@ -1,10 +1,5 @@
-- ---
-  tags:
-    - zotero
-    - note/paper
-  uuid: b089dd5e-6a8f-4249-b912-1d59df0e93ca
-  date updated: 2022-05-18 08:31
-  ---
+tags:: [[zotero]] [[Paper Highlights]]
+
 # ABSTRACT
 
 “TriggerInduced Recommendation (TIR), where users’ instant interest can be explicitly induced with a trigger item and follow-up related target items are recommended accordingly.” [Go to annotation](zotero://open-pdf/library/items/N8JTW5T3?page=1&annotation=VG7I78XC) ([Shen et al., 2022, p. 1](zotero://select/library/items/T3WXFB3R)) TIR 的定义：通过触发商品，显式地捕捉用户的即时兴趣，进而推荐相关商品
