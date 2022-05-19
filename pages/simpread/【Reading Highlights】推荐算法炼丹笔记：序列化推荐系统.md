@@ -2,6 +2,8 @@ title:: 【Reading Highlights】推荐算法炼丹笔记：序列化推荐系统
 source:: https://zhuanlan.zhihu.com/p/272862240
 tags:: [[简悦]] [[推荐系统]]  [[序列化推荐]]  [[他人论文笔记]]   [[reading_highlights]]
 date:: 20220520  
+desc:: 作者：一元 公众号：炼丹笔记 特约审稿：杰少 背景序列推荐系统(SRS)不同于传统推荐系统（RSs）包括协同过滤和基于内容的过滤，SRSs试图理解和建模用户的连续行为、用户与物品之间的交互作用以及用户偏好和商品流…
+summary:: 本文是这篇综述的笔记：[Sequential Recommender Systems: Challenges, Progress and Prospects](https://www.ijcai.org/Proceedings/2019/0883.pdf)
 
 - > 传统的推荐系统, 例如基于内容和协同过滤的推荐系统，以一种**静态的方式建模用户和商品的交互并且只可以捕获用户广义的喜好**。而相反地，**_SRSs 则是将用户和商品的交互建模为一个动态的序列并且利用序列的依赖性来活捉当前和最近用户的喜好_**。  ([🌐 摘要链接](https://zhuanlan.zhihu.com/p/272862240#js_content:~:text=%E9%9D%99%E6%80%81%E7%9A%84%E6%96%B9%E5%BC%8F%E5%BB%BA%E6%A8%A1%E7%94%A8%E6%88%B7%E5%92%8C%E5%95%86%E5%93%81%E7%9A%84%E4%BA%A4%E4%BA%92%E5%B9%B6%E4%B8%94%E5%8F%AA%E5%8F%AF%E4%BB%A5%E6%8D%95%E8%8E%B7%E7%94%A8%E6%88%B7%E5%B9%BF%E4%B9%89%E7%9A%84%E5%96%9C%E5%A5%BD%E4%BC%A0%E7%BB%9F%E7%9A%84%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F,%20%E4%BE%8B%E5%A6%82%E5%9F%BA%E4%BA%8E%E5%86%85%E5%AE%B9%E5%92%8C%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4%E7%9A%84%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%BB%A5%E4%B8%80%E7%A7%8DSRSs%20%E5%88%99%E6%98%AF%E5%B0%86%E7%94%A8%E6%88%B7%E5%92%8C%E5%95%86%E5%93%81%E7%9A%84%E4%BA%A4%E4%BA%92%E5%BB%BA%E6%A8%A1%E4%B8%BA%E4%B8%80%E4%B8%AA%E5%8A%A8%E6%80%81%E7%9A%84%E5%BA%8F%E5%88%97%E5%B9%B6%E4%B8%94%E5%88%A9%E7%94%A8%E5%BA%8F%E5%88%97%E7%9A%84%E4%BE%9D%E8%B5%96%E6%80%A7%E6%9D%A5%E6%B4%BB%E6%8D%89%E5%BD%93%E5%89%8D%E5%92%8C%E6%9C%80%E8%BF%91%E7%94%A8%E6%88%B7%E7%9A%84%E5%96%9C%E5%A5%BD%E3%80%82%E8%80%8C%E7%9B%B8%E5%8F%8D%E5%9C%B0%EF%BC%8C%E3%80%82))
   - 📝 序列化推荐与传统基于内容、协同过滤推荐的对比
