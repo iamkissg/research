@@ -1,15 +1,24 @@
-[{:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
+[{:block/name "20220519",
+  :block/created-at 1652922580443,
+  :block/updated-at 1652922580443}
+ {:block/name "60d34662-6747-46cd-a790-6dcb691b0256",
   :block/created-at 1651671997320,
   :block/updated-at 1651671997320}
  {:block/name "a",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "autofis",
+  :block/created-at 1652922178711,
+  :block/updated-at 1652922178711}
  {:block/name "b",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
  {:block/name "c",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "can",
+  :block/created-at 1652922178710,
+  :block/updated-at 1652922178710}
  {:block/name "card",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
@@ -22,12 +31,15 @@
  {:block/name "done",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "embedding",
+  :block/created-at 1652917620227,
+  :block/updated-at 1652917620227}
  {:block/name "favorites",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
  {:block/name "home page",
   :block/created-at 1652742148810,
-  :block/updated-at 1652831193243}
+  :block/updated-at 1652915215083}
  {:block/name "in-progress",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
@@ -37,6 +49,12 @@
  {:block/name "now",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "paper_highlights",
+  :block/created-at 1652834136293,
+  :block/updated-at 1652834136293}
+ {:block/name "reading_highlights",
+  :block/created-at 1652914362188,
+  :block/updated-at 1652914362188}
  {:block/name "readme",
   :block/created-at 1651671753120,
   :block/updated-at 1652664477541}
@@ -52,21 +70,80 @@
  {:block/name "waiting",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
- {:block/name "【赵喧典的摘要】[论文精读]07—bst：transformer 在推荐领域的应用",
+ {:block/name "zotero",
+  :block/created-at 1652833938626,
+  :block/updated-at 1652833938626}
+ {:block/name
+  "【paper highlights】deep interest highlight network for click-through rate prediction in trigger-induced recommendation",
+  :block/created-at 1652914362055,
+  :block/updated-at 1652914362055}
+ {:block/name "【reading highlights】[论文精读]07—bst：transformer 在推荐领域的应用",
   :block/created-at 1652750153118,
   :block/updated-at 1652750153118}
+ {:block/name "【reading highlights】机器学习中如何利用 id 类特征？",
+  :block/created-at 1652914362277,
+  :block/updated-at 1652914362277}
+ {:block/name
+  "【reading highlights】深度 ctr 预估中 id 到 embedding 目前工业界主流是端到端直接学习还是预训练_",
+  :block/created-at 1652917620225,
+  :block/updated-at 1652917620225}
+ {:block/name "【reading highlights】点击率预测模型 embedding 层的学习和训练",
+  :block/created-at 1652922178718,
+  :block/updated-at 1652922178718}
+ {:block/name "【reading highlights】王冬月：京东推荐算法精排技术实践",
+  :block/created-at 1652834875760,
+  :block/updated-at 1652834875760}
+ {:block/name "【reading highlights】阿里妈妈：电商预估模型的发展与挑战",
+  :block/created-at 1652914362546,
+  :block/updated-at 1652914362546}
+ {:block/name "与子同 yue",
+  :block/created-at 1652915060192,
+  :block/updated-at 1652915060192}
+ {:block/name "京东技术",
+  :block/created-at 1652834875763,
+  :block/updated-at 1652834875763}
+ {:block/name "华为技术",
+  :block/created-at 1652922178720,
+  :block/updated-at 1652922178720}
+ {:block/name "小文章",
+  :block/created-at 1652915092191,
+  :block/updated-at 1652915092191}
+ {:block/name "小课题",
+  :block/created-at 1652915082050,
+  :block/updated-at 1652915082050}
  {:block/name "排序算法",
   :block/created-at 1652746652878,
   :block/updated-at 1652746652878}
+ {:block/name "推特技术",
+  :block/created-at 1652922178712,
+  :block/updated-at 1652922178712}
  {:block/name "推荐系统",
   :block/created-at 1652746652877,
   :block/updated-at 1652746652877}
+ {:block/name "机器学习",
+  :block/created-at 1652914362281,
+  :block/updated-at 1652914362281}
+ {:block/name "特征工程",
+  :block/created-at 1652914362282,
+  :block/updated-at 1652914362282}
+ {:block/name "电商算法",
+  :block/created-at 1652914362549,
+  :block/updated-at 1652914362549}
  {:block/name "简悦",
   :block/created-at 1652744974434,
   :block/updated-at 1652744974434}
  {:block/name "精排",
   :block/created-at 1652746652879,
   :block/updated-at 1652746652879}
+ {:block/name "过拟合",
+  :block/created-at 1652914534926,
+  :block/updated-at 1652914534926}
+ {:block/name "阿里妈妈",
+  :block/created-at 1652914362547,
+  :block/updated-at 1652914362547}
  {:block/name "阿里技术",
-  :block/created-at 1652746652877, 
-  :block/updated-at 1652746652877}]
+  :block/created-at 1652746652877,
+  :block/updated-at 1652746652877}
+ {:block/name "预训练模型",
+  :block/created-at 1652917620222, 
+  :block/updated-at 1652917620222}]
