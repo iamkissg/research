@@ -1,7 +1,7 @@
 title:: 【Reading Highlights】点击率预测模型 Embedding 层的学习和训练
 source:: https://zhuanlan.zhihu.com/p/509188349
 tags:: [[简悦]] [[embedding]]  [[华为技术]]   [[reading_highlights]]
-date:: [[{{create|yyyy-mm-dd_ddd}}]]
+date:: [[2022-09-19_19  ]]
 
 
 - > ![](https://pic1.zhimg.com/v2-1b972b16334617ccc85a0c6e36539d9c_r.jpg)  ([🌐 摘要链接](https://zhuanlan.zhihu.com/p/509188349#js_content:~:text=https://pic1.zhimg.com/v2-1b972b16334617ccc85a0c6e36539d9c_r.jpg))
