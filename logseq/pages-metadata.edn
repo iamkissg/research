@@ -22,6 +22,9 @@
  {:block/name "din",
   :block/created-at 1652747524765,
   :block/updated-at 1652747524765}
+ {:block/name "dme",
+  :block/created-at 1653048815302,
+  :block/updated-at 1653048815302}
  {:block/name "doing",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
@@ -39,13 +42,16 @@
   :block/updated-at 1651671997016}
  {:block/name "home page",
   :block/created-at 1652742148810,
-  :block/updated-at 1652915215083}
+  :block/updated-at 1653268404139}
  {:block/name "in-progress",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
  {:block/name "later",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "learning  in public",
+  :block/created-at 1653267518034,
+  :block/updated-at 1653267518034}
  {:block/name "now",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
@@ -80,6 +86,9 @@
  {:block/name "【reading highlights】[论文精读]07—bst：transformer 在推荐领域的应用",
   :block/created-at 1652750153118,
   :block/updated-at 1652750153118}
+ {:block/name "【reading highlights】一篇长而全的精排笔记",
+  :block/created-at 1653265877912,
+  :block/updated-at 1653265877912}
  {:block/name "【reading highlights】推荐算法炼丹笔记：序列化推荐系统",
   :block/created-at 1653007494429,
   :block/updated-at 1653007494429}
@@ -91,8 +100,8 @@
   :block/created-at 1652917620225,
   :block/updated-at 1652917620225}
  {:block/name "【reading highlights】点击率预测模型 embedding 层的学习和训练",
-  :block/created-at 1652922178718,
-  :block/updated-at 1652922178718}
+  :block/created-at 1653048815313,
+  :block/updated-at 1653048815313}
  {:block/name "【reading highlights】王冬月：京东推荐算法精排技术实践",
   :block/created-at 1652834875760,
   :block/updated-at 1652834875760}
@@ -102,12 +111,18 @@
  {:block/name "与子同 yue",
   :block/created-at 1652915060192,
   :block/updated-at 1652915060192}
+ {:block/name "二八定律",
+  :block/created-at 1653265877903,
+  :block/updated-at 1653265877903}
  {:block/name "京东技术",
   :block/created-at 1652834875763,
   :block/updated-at 1652834875763}
  {:block/name "他人论文笔记",
   :block/created-at 1653007494431,
   :block/updated-at 1653007494431}
+ {:block/name "关于我",
+  :block/created-at 1653045051686,
+  :block/updated-at 1653045051686}
  {:block/name "华为技术",
   :block/created-at 1652922178720,
   :block/updated-at 1652922178720}
@@ -120,6 +135,9 @@
  {:block/name "序列化推荐",
   :block/created-at 1653007494430,
   :block/updated-at 1653007494430}
+ {:block/name "我的近况",
+  :block/created-at 1653045051688,
+  :block/updated-at 1653045051688}
  {:block/name "排序算法",
   :block/created-at 1652746652878,
   :block/updated-at 1652746652878}
@@ -132,6 +150,9 @@
  {:block/name "机器学习",
   :block/created-at 1652914362281,
   :block/updated-at 1652914362281}
+ {:block/name "模型结构",
+  :block/created-at 1653265877899,
+  :block/updated-at 1653265877899}
  {:block/name "注意力机制",
   :block/created-at 1653007494426,
   :block/updated-at 1653007494426}
@@ -156,6 +177,9 @@
  {:block/name "阿里技术",
   :block/created-at 1652746652877,
   :block/updated-at 1652746652877}
+ {:block/name "降采样",
+  :block/created-at 1653265877904,
+  :block/updated-at 1653265877904}
  {:block/name "预训练模型",
   :block/created-at 1652917620222, 
   :block/updated-at 1652917620222}]
