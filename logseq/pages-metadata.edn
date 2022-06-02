@@ -1,12 +1,18 @@
 [{:block/name "a",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "attention",
+  :block/created-at 1654132115244,
+  :block/updated-at 1654132115244}
  {:block/name "autofis",
   :block/created-at 1652922178711,
   :block/updated-at 1652922178711}
  {:block/name "b",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "bst",
+  :block/created-at 1654123378365,
+  :block/updated-at 1654123378365}
  {:block/name "c",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
@@ -19,9 +25,15 @@
  {:block/name "contents",
   :block/created-at 1653007500150,
   :block/updated-at 1653007500150}
+ {:block/name "dien",
+  :block/created-at 1654123378355,
+  :block/updated-at 1654123378355}
  {:block/name "din",
   :block/created-at 1652747524765,
   :block/updated-at 1652747524765}
+ {:block/name "din highligthts 1",
+  :block/created-at 1654132112249,
+  :block/updated-at 1654132115338}
  {:block/name "dme",
   :block/created-at 1653048815302,
   :block/updated-at 1653048815302}
@@ -34,15 +46,24 @@
  {:block/name "dsin",
   :block/created-at 1653007494427,
   :block/updated-at 1653007494427}
+ {:block/name "dssm",
+  :block/created-at 1654123376889,
+  :block/updated-at 1654123376889}
+ {:block/name "eges",
+  :block/created-at 1654123377849,
+  :block/updated-at 1654123377849}
  {:block/name "embedding",
   :block/created-at 1652917620227,
   :block/updated-at 1652917620227}
  {:block/name "favorites",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "fs",
+  :block/created-at 1654123376102,
+  :block/updated-at 1654123376102}
  {:block/name "home page",
   :block/created-at 1652742148810,
-  :block/updated-at 1653268404139}
+  :block/updated-at 1654132112250}
  {:block/name "in-progress",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
@@ -52,18 +73,42 @@
  {:block/name "learning  in public",
   :block/created-at 1653267518034,
   :block/updated-at 1653267518034}
+ {:block/name "mimn",
+  :block/created-at 1654123378362,
+  :block/updated-at 1654123378362}
+ {:block/name "naval",
+  :block/created-at 1654123376548,
+  :block/updated-at 1654123376548}
  {:block/name "now",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
  {:block/name "paper_highlights",
   :block/created-at 1652834136293,
   :block/updated-at 1652834136293}
+ {:block/name "previous",
+  :block/created-at 1654123378603,
+  :block/updated-at 1654123378603}
  {:block/name "reading_highlights",
   :block/created-at 1652914362188,
   :block/updated-at 1652914362188}
  {:block/name "readme",
   :block/created-at 1651671753120,
   :block/updated-at 1652664477541}
+ {:block/name "rnn",
+  :block/created-at 1654123378356,
+  :block/updated-at 1654123378356}
+ {:block/name "self-attention",
+  :block/created-at 1654128006418,
+  :block/updated-at 1654128006418}
+ {:block/name "sim",
+  :block/created-at 1654123378366,
+  :block/updated-at 1654123378366}
+ {:block/name "subword",
+  :block/created-at 1654123377855,
+  :block/updated-at 1654123377855}
+ {:block/name "tf-serving",
+  :block/created-at 1654123376701,
+  :block/updated-at 1654123376701}
  {:block/name "todo",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
@@ -76,6 +121,9 @@
  {:block/name "waiting",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "wdl",
+  :block/created-at 1654132115245,
+  :block/updated-at 1654132115245}
  {:block/name "zotero",
   :block/created-at 1652833938626,
   :block/updated-at 1652833938626}
@@ -86,15 +134,59 @@
  {:block/name "【reading highlights】[论文精读]07—bst：transformer 在推荐领域的应用",
   :block/created-at 1652750153118,
   :block/updated-at 1652750153118}
+ {:block/name
+  "【reading highlights】how a decision journal changed the way i make decisions (template included)",
+  :block/created-at 1654123376099,
+  :block/updated-at 1654123376099}
+ {:block/name "【reading highlights】naval ravikant 的 9 个阅读原则 - _03",
+  :block/created-at 1654123376546,
+  :block/updated-at 1654123376546}
  {:block/name "【reading highlights】一篇长而全的精排笔记",
   :block/created-at 1653265877912,
   :block/updated-at 1653265877912}
+ {:block/name
+  "【reading highlights】从阿里的 user interest center 看模型线上实时 serving 方法",
+  :block/created-at 1654123376633,
+  :block/updated-at 1654123376633}
+ {:block/name "【reading highlights】关于技术能力的思考和总结",
+  :block/created-at 1654124864001,
+  :block/updated-at 1654124864001}
+ {:block/name "【reading highlights】如何解决推荐系统工程难题——深度学习推荐模型线上 serving？",
+  :block/created-at 1654123376699,
+  :block/updated-at 1654123376699}
  {:block/name "【reading highlights】推荐算法炼丹笔记：序列化推荐系统",
   :block/created-at 1653007494429,
   :block/updated-at 1653007494429}
+ {:block/name "【reading highlights】推荐系统 embedding 技术实践总结",
+  :block/created-at 1654123376906,
+  :block/updated-at 1654123376906}
+ {:block/name "【reading highlights】推荐系统中不同 embedding 特征设置不同长度的实践",
+  :block/created-at 1654123377116,
+  :block/updated-at 1654123377116}
+ {:block/name "【reading highlights】推荐系统中比模型结构更重要的是什么？[附阿里盖坤，朱小强留言]",
+  :block/created-at 1654123377152,
+  :block/updated-at 1654123377152}
+ {:block/name "【reading highlights】推荐系统中特征交叉的一些事儿",
+  :block/created-at 1654123377209,
+  :block/updated-at 1654123377209}
+ {:block/name "【reading highlights】推荐系统中的注意力机制——阿里深度兴趣网络（din）",
+  :block/created-at 1654123377269,
+  :block/updated-at 1654123377269}
+ {:block/name "【reading highlights】推荐系统中稀疏特征 embedding 的优化表示方法",
+  :block/created-at 1654123377349,
+  :block/updated-at 1654123377349}
+ {:block/name "【reading highlights】推荐系统里，你是怎么 embedding 的？",
+  :block/created-at 1654123377401,
+  :block/updated-at 1654123377401}
  {:block/name "【reading highlights】机器学习中如何利用 id 类特征？",
   :block/created-at 1652914362277,
   :block/updated-at 1652914362277}
+ {:block/name "【reading highlights】毕加索的「公牛」和机器学习的「特征工程」",
+  :block/created-at 1654123377429,
+  :block/updated-at 1654123377429}
+ {:block/name "【reading highlights】浅谈微视推荐系统中的特征工程 - 云 + 社区 - 腾讯云",
+  :block/created-at 1654123377860,
+  :block/updated-at 1654123377860}
  {:block/name
   "【reading highlights】深度 ctr 预估中 id 到 embedding 目前工业界主流是端到端直接学习还是预训练_",
   :block/created-at 1652917620225,
@@ -102,12 +194,42 @@
  {:block/name "【reading highlights】点击率预测模型 embedding 层的学习和训练",
   :block/created-at 1653048815313,
   :block/updated-at 1653048815313}
+ {:block/name "【reading highlights】特征处理经验",
+  :block/created-at 1654123378073,
+  :block/updated-at 1654123378073}
+ {:block/name "【reading highlights】特征工程完全手册 - 从预处理、构造、选择、降维、不平衡处理，到放弃",
+  :block/created-at 1654123378207,
+  :block/updated-at 1654123378207}
  {:block/name "【reading highlights】王冬月：京东推荐算法精排技术实践",
   :block/created-at 1652834875760,
   :block/updated-at 1652834875760}
+ {:block/name
+  "【reading highlights】精排模型 - 从 mlp 到行为序列：din、dien、mimn、sim、dsin",
+  :block/created-at 1654123378374,
+  :block/updated-at 1654123378374}
+ {:block/name
+  "【reading highlights】网易云音乐推荐中的用户行为序列深度建模_移动_datafuntalk_infoq 精选文章",
+  :block/created-at 1654128006431,
+  :block/updated-at 1654128006431}
+ {:block/name "【reading highlights】融 360 蒋宏：自动化特征工程和自动建模在风控场景的应用",
+  :block/created-at 1654123378486,
+  :block/updated-at 1654123378486}
+ {:block/name
+  "【reading highlights】见微知著，你真的搞懂 google 的 wide&deep 模型了吗？",
+  :block/created-at 1654123378548,
+  :block/updated-at 1654123378548}
+ {:block/name "【reading highlights】重读 youtube 深度学习推荐系统论文，字字珠玑，惊为神文",
+  :block/created-at 1654123378605,
+  :block/updated-at 1654123378605}
+ {:block/name "【reading highlights】阿里 10 年沉淀｜那些技术实战中的架构设计方法",
+  :block/created-at 1654125532317,
+  :block/updated-at 1654125532317}
  {:block/name "【reading highlights】阿里妈妈：电商预估模型的发展与挑战",
   :block/created-at 1652914362546,
   :block/updated-at 1652914362546}
+ {:block/name "三塔模型",
+  :block/created-at 1654123378359,
+  :block/updated-at 1654123378359}
  {:block/name "与子同 yue",
   :block/created-at 1652915060192,
   :block/updated-at 1652915060192}
@@ -120,12 +242,30 @@
  {:block/name "他人论文笔记",
   :block/created-at 1653007494431,
   :block/updated-at 1653007494431}
+ {:block/name "六顶思考帽",
+  :block/created-at 1654125532312,
+  :block/updated-at 1654125532312}
  {:block/name "关于我",
   :block/created-at 1653045051686,
   :block/updated-at 1653045051686}
+ {:block/name "写作",
+  :block/created-at 1654123376051,
+  :block/updated-at 1654123376051}
+ {:block/name "分布式假设",
+  :block/created-at 1654123377855,
+  :block/updated-at 1654123377855}
+ {:block/name "分治法",
+  :block/created-at 1654125532311,
+  :block/updated-at 1654125532311}
+ {:block/name "刘润",
+  :block/created-at 1654125532310,
+  :block/updated-at 1654125532310}
  {:block/name "华为技术",
   :block/created-at 1652922178720,
   :block/updated-at 1652922178720}
+ {:block/name "双塔模型",
+  :block/created-at 1654123378360,
+  :block/updated-at 1654123378360}
  {:block/name "小文章",
   :block/created-at 1652915092191,
   :block/updated-at 1652915092191}
@@ -135,6 +275,9 @@
  {:block/name "序列化推荐",
   :block/created-at 1653007494430,
   :block/updated-at 1653007494430}
+ {:block/name "张俊林",
+  :block/created-at 1654123377352,
+  :block/updated-at 1654123377352}
  {:block/name "我的近况",
   :block/created-at 1653045051688,
   :block/updated-at 1653045051688}
@@ -144,6 +287,15 @@
  {:block/name "推特技术",
   :block/created-at 1652922178712,
   :block/updated-at 1652922178712}
+ {:block/name "推荐指数：一星",
+  :block/created-at 1654124864005,
+  :block/updated-at 1654124864005}
+ {:block/name "推荐指数：二星",
+  :block/created-at 1654123376924,
+  :block/updated-at 1654123376924}
+ {:block/name "推荐指数：四星",
+  :block/created-at 1654123376102,
+  :block/updated-at 1654123376102}
  {:block/name "推荐系统",
   :block/created-at 1652746652877,
   :block/updated-at 1652746652877}
@@ -153,21 +305,66 @@
  {:block/name "模型结构",
   :block/created-at 1653265877899,
   :block/updated-at 1653265877899}
+ {:block/name "正态分布",
+  :block/created-at 1654123377841,
+  :block/updated-at 1654123377841}
+ {:block/name "注意力",
+  :block/created-at 1654123377265,
+  :block/updated-at 1654123377265}
  {:block/name "注意力机制",
   :block/created-at 1653007494426,
   :block/updated-at 1653007494426}
  {:block/name "特征工程",
   :block/created-at 1652914362282,
   :block/updated-at 1652914362282}
+ {:block/name "特征组合",
+  :block/created-at 1654123377207,
+  :block/updated-at 1654123377207}
+ {:block/name "特征选择",
+  :block/created-at 1654123377840,
+  :block/updated-at 1654123377840}
+ {:block/name "王喆",
+  :block/created-at 1654123376635,
+  :block/updated-at 1654123376635}
  {:block/name "电商算法",
   :block/created-at 1652914362549,
   :block/updated-at 1652914362549}
+ {:block/name "第一性原理",
+  :block/created-at 1654125532307,
+  :block/updated-at 1654125532307}
  {:block/name "简悦",
   :block/created-at 1652744974434,
   :block/updated-at 1652744974434}
  {:block/name "精排",
   :block/created-at 1652746652879,
   :block/updated-at 1652746652879}
+ {:block/name "系统架构",
+  :block/created-at 1654128006413,
+  :block/updated-at 1654128006413}
+ {:block/name "网易技术",
+  :block/created-at 1654128006437,
+  :block/updated-at 1654128006437}
+ {:block/name "腾讯技术",
+  :block/created-at 1654123376923,
+  :block/updated-at 1654123376923}
+ {:block/name "视频推荐",
+  :block/created-at 1654123377862,
+  :block/updated-at 1654123377862}
+ {:block/name "解耦法",
+  :block/created-at 1654125532314,
+  :block/updated-at 1654125532314}
+ {:block/name "计算广告",
+  :block/created-at 1654132115248,
+  :block/updated-at 1654132115248}
+ {:block/name "读书",
+  :block/created-at 1654123376548,
+  :block/updated-at 1654123376548}
+ {:block/name "谷歌技术",
+  :block/created-at 1654123378607,
+  :block/updated-at 1654123378607}
+ {:block/name "软技能",
+  :block/created-at 1654124864005,
+  :block/updated-at 1654124864005}
  {:block/name "过拟合",
   :block/created-at 1652914534926,
   :block/updated-at 1652914534926}
@@ -180,6 +377,9 @@
  {:block/name "降采样",
   :block/created-at 1653265877904,
   :block/updated-at 1653265877904}
+ {:block/name "随机森林",
+  :block/created-at 1654123378204,
+  :block/updated-at 1654123378204}
  {:block/name "预训练模型",
   :block/created-at 1652917620222, 
   :block/updated-at 1652917620222}]
