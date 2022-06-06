@@ -22,9 +22,15 @@
  {:block/name "card",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
+ {:block/name "cin",
+  :block/created-at 1654559063045,
+  :block/updated-at 1654559063045}
  {:block/name "contents",
   :block/created-at 1653007500150,
   :block/updated-at 1653007500150}
+ {:block/name "dcn",
+  :block/created-at 1654559063021,
+  :block/updated-at 1654559063021}
  {:block/name "dien",
   :block/created-at 1654123378355,
   :block/updated-at 1654123378355}
@@ -124,6 +130,9 @@
  {:block/name "wdl",
   :block/created-at 1654132115245,
   :block/updated-at 1654132115245}
+ {:block/name "xdeepfm",
+  :block/created-at 1654559063046,
+  :block/updated-at 1654559063046}
  {:block/name "zotero",
   :block/created-at 1652833938626,
   :block/updated-at 1652833938626}
@@ -191,6 +200,9 @@
   "【reading highlights】深度 ctr 预估中 id 到 embedding 目前工业界主流是端到端直接学习还是预训练_",
   :block/created-at 1652917620225,
   :block/updated-at 1652917620225}
+ {:block/name "【reading highlights】深度 ctr 预估模型中的特征自动组合机制演化简史",
+  :block/created-at 1654559063048,
+  :block/updated-at 1654559063048}
  {:block/name "【reading highlights】点击率预测模型 embedding 层的学习和训练",
   :block/created-at 1653048815313,
   :block/updated-at 1653048815313}
