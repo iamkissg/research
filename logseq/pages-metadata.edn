@@ -31,12 +31,18 @@
  {:block/name "contents",
   :block/created-at 1653007500150,
   :block/updated-at 1653007500150}
+ {:block/name "ctr",
+  :block/created-at 1656146261029,
+  :block/updated-at 1656146261029}
  {:block/name "datafun",
   :block/created-at 1654642095401,
   :block/updated-at 1654642095401}
  {:block/name "dcn",
   :block/created-at 1654559063021,
   :block/updated-at 1654559063021}
+ {:block/name "deepfm",
+  :block/created-at 1656146261025,
+  :block/updated-at 1656146261025}
  {:block/name "dien",
   :block/created-at 1654123378355,
   :block/updated-at 1654123378355}
@@ -67,6 +73,9 @@
  {:block/name "dupn",
   :block/created-at 1654642095383,
   :block/updated-at 1654642095383}
+ {:block/name "easyrec",
+  :block/created-at 1656146262335,
+  :block/updated-at 1656146262335}
  {:block/name "eges",
   :block/created-at 1654123377849,
   :block/updated-at 1654123377849}
@@ -103,12 +112,18 @@
  {:block/name "naval",
   :block/created-at 1654123376548,
   :block/updated-at 1654123376548}
+ {:block/name "nlp",
+  :block/created-at 1656146251998,
+  :block/updated-at 1656146251998}
  {:block/name "now",
   :block/created-at 1651671997016,
   :block/updated-at 1651671997016}
  {:block/name "paper_highlights",
   :block/created-at 1652834136293,
   :block/updated-at 1652834136293}
+ {:block/name "pnn",
+  :block/created-at 1656146261023,
+  :block/updated-at 1656146261023}
  {:block/name "previous",
   :block/created-at 1654123378603,
   :block/updated-at 1654123378603}
@@ -130,6 +145,9 @@
  {:block/name "subword",
   :block/created-at 1654123377855,
   :block/updated-at 1654123377855}
+ {:block/name "tensorflow",
+  :block/created-at 1656146261383,
+  :block/updated-at 1656146261383}
  {:block/name "tf-serving",
   :block/created-at 1654123376701,
   :block/updated-at 1654123376701}
@@ -148,6 +166,9 @@
  {:block/name "wdl",
   :block/created-at 1654132115245,
   :block/updated-at 1654132115245}
+ {:block/name "wiki style 类文本生成",
+  :block/created-at 1656146261189,
+  :block/updated-at 1656146261189}
  {:block/name "xdeepfm",
   :block/created-at 1654559063046,
   :block/updated-at 1654559063046}
@@ -161,16 +182,38 @@
  {:block/name "【reading highlights】[论文精读]07—bst：transformer 在推荐领域的应用",
   :block/created-at 1652750153118,
   :block/updated-at 1652750153118}
+ {:block/name "【reading highlights】bert在美团搜索核心排序的探索和实践 - 美团技术团队",
+  :block/created-at 1656146251989,
+  :block/updated-at 1656146251989}
  {:block/name
   "【reading highlights】how a decision journal changed the way i make decisions (template included)",
   :block/created-at 1654123376099,
   :block/updated-at 1654123376099}
+ {:block/name "【reading highlights】how to learn in private",
+  :block/created-at 1656146252344,
+  :block/updated-at 1656146252344}
+ {:block/name "【reading highlights】learn in public",
+  :block/created-at 1656146252470,
+  :block/updated-at 1656146252470}
  {:block/name "【reading highlights】naval ravikant 的 9 个阅读原则 - _03",
   :block/created-at 1654123376546,
   :block/updated-at 1654123376546}
+ {:block/name "【reading highlights】pointer networks 简介及其应用",
+  :block/created-at 1656146252519,
+  :block/updated-at 1656146252519}
+ {:block/name
+  "【reading highlights】wsdm cup 2020 检索排序评测任务第一名经验总结 - 美团技术团队",
+  :block/created-at 1656146260335,
+  :block/updated-at 1656146260335}
+ {:block/name "【reading highlights】一定要读的 35 本商业书 _ 年度书单",
+  :block/created-at 1656146260828,
+  :block/updated-at 1656146260828}
  {:block/name "【reading highlights】一篇长而全的精排笔记",
   :block/created-at 1653265877912,
   :block/updated-at 1653265877912}
+ {:block/name "【reading highlights】主流 ctr 预估模型的演化及对比",
+  :block/created-at 1656146261026,
+  :block/updated-at 1656146261026}
  {:block/name
   "【reading highlights】从阿里的 user interest center 看模型线上实时 serving 方法",
   :block/created-at 1654123376633,
@@ -178,12 +221,31 @@
  {:block/name "【reading highlights】关于技术能力的思考和总结",
   :block/created-at 1654124864001,
   :block/updated-at 1654124864001}
+ {:block/name "【reading highlights】商品标题这么长长长长长，阿里工程师如何解决？",
+  :block/created-at 1656146261202,
+  :block/updated-at 1656146261202}
+ {:block/name "【reading highlights】基于 tensorflow serving 的深度学习在线预估",
+  :block/created-at 1656146261387,
+  :block/updated-at 1656146261387}
+ {:block/name
+  "【reading highlights】如何将北京的社保和公积金转移到杭州？_ 住房公积金 _ 养老保险 _ 社会保险 _ 医疗保险_网易订阅",
+  :block/created-at 1656146261523,
+  :block/updated-at 1656146261523}
  {:block/name "【reading highlights】如何解决推荐系统工程难题——深度学习推荐模型线上 serving？",
   :block/created-at 1654123376699,
   :block/updated-at 1654123376699}
+ {:block/name "【reading highlights】少数派思考 007：关于 rss",
+  :block/created-at 1656146261590,
+  :block/updated-at 1656146261590}
+ {:block/name "【reading highlights】年底了，到底该如何制定明年的 okr？",
+  :block/created-at 1656146261697,
+  :block/updated-at 1656146261697}
  {:block/name "【reading highlights】序列特征在推荐算法中的应用",
   :block/created-at 1654642095398,
   :block/updated-at 1654642095398}
+ {:block/name "【reading highlights】我的信息获取方案 _ 简悦周报",
+  :block/created-at 1656146261753,
+  :block/updated-at 1656146261753}
  {:block/name "【reading highlights】推荐算法炼丹笔记：序列化推荐系统",
   :block/created-at 1653007494429,
   :block/updated-at 1653007494429}
@@ -205,6 +267,9 @@
  {:block/name "【reading highlights】推荐系统中稀疏特征 embedding 的优化表示方法",
   :block/created-at 1654123377349,
   :block/updated-at 1654123377349}
+ {:block/name "【reading highlights】推荐系统技术演进趋势：从召回到排序再到重排",
+  :block/created-at 1656146262140,
+  :block/updated-at 1656146262140}
  {:block/name "【reading highlights】推荐系统里，你是怎么 embedding 的？",
   :block/created-at 1654123377401,
   :block/updated-at 1654123377401}
@@ -224,6 +289,9 @@
  {:block/name "【reading highlights】深度 ctr 预估模型中的特征自动组合机制演化简史",
   :block/created-at 1654559063048,
   :block/updated-at 1654559063048}
+ {:block/name "【reading highlights】深度解析开源推荐算法框架 easyrec 的核心概念和优势",
+  :block/created-at 1656146262347,
+  :block/updated-at 1656146262347}
  {:block/name "【reading highlights】点击率预测模型 embedding 层的学习和训练",
   :block/created-at 1653048815313,
   :block/updated-at 1653048815313}
@@ -244,6 +312,12 @@
   "【reading highlights】网易云音乐推荐中的用户行为序列深度建模_移动_datafuntalk_infoq 精选文章",
   :block/created-at 1654128006431,
   :block/updated-at 1654128006431}
+ {:block/name "【reading highlights】罗清：对比学习在快手推荐排序的应用",
+  :block/created-at 1656146262421,
+  :block/updated-at 1656146262421}
+ {:block/name "【reading highlights】美团 “猜你喜欢” 深度学习排序模型实践",
+  :block/created-at 1656146262557,
+  :block/updated-at 1656146262557}
  {:block/name "【reading highlights】融 360 蒋宏：自动化特征工程和自动建模在风控场景的应用",
   :block/created-at 1654123378486,
   :block/updated-at 1654123378486}
@@ -254,6 +328,9 @@
  {:block/name "【reading highlights】重读 youtube 深度学习推荐系统论文，字字珠玑，惊为神文",
   :block/created-at 1654123378605,
   :block/updated-at 1654123378605}
+ {:block/name "【reading highlights】针对商品标题冗长问题，阿里工程师怎么解决？",
+  :block/created-at 1656146262680,
+  :block/updated-at 1656146262680}
  {:block/name "【reading highlights】阿里 10 年沉淀｜那些技术实战中的架构设计方法",
   :block/created-at 1654125532317,
   :block/updated-at 1654125532317}
@@ -269,6 +346,9 @@
  {:block/name "二八定律",
   :block/created-at 1653265877903,
   :block/updated-at 1653265877903}
+ {:block/name "五险一金",
+  :block/created-at 1656146261525,
+  :block/updated-at 1656146261525}
  {:block/name "京东技术",
   :block/created-at 1652834875763,
   :block/updated-at 1652834875763}
@@ -293,24 +373,48 @@
  {:block/name "刘润",
   :block/created-at 1654125532310,
   :block/updated-at 1654125532310}
+ {:block/name "创意优化",
+  :block/created-at 1656146261205,
+  :block/updated-at 1656146261205}
  {:block/name "华为技术",
   :block/created-at 1652922178720,
   :block/updated-at 1652922178720}
+ {:block/name "历史演变",
+  :block/created-at 1656146262132,
+  :block/updated-at 1656146262132}
  {:block/name "双塔模型",
   :block/created-at 1654123378360,
   :block/updated-at 1654123378360}
+ {:block/name "召回",
+  :block/created-at 1656146262128,
+  :block/updated-at 1656146262128}
+ {:block/name "多目标优化",
+  :block/created-at 1656146262135,
+  :block/updated-at 1656146262135}
+ {:block/name "对比学习",
+  :block/created-at 1656146262429,
+  :block/updated-at 1656146262429}
  {:block/name "小文章",
   :block/created-at 1652915092191,
   :block/updated-at 1652915092191}
  {:block/name "小课题",
   :block/created-at 1652915082050,
   :block/updated-at 1652915082050}
+ {:block/name "少数派",
+  :block/created-at 1656146261594,
+  :block/updated-at 1656146261594}
+ {:block/name "工程优化",
+  :block/created-at 1656146261381,
+  :block/updated-at 1656146261381}
  {:block/name "序列化推荐",
   :block/created-at 1653007494430,
   :block/updated-at 1653007494430}
  {:block/name "张俊林",
   :block/created-at 1654123377352,
   :block/updated-at 1654123377352}
+ {:block/name "快手技术",
+  :block/created-at 1656146262427,
+  :block/updated-at 1656146262427}
  {:block/name "我的近况",
   :block/created-at 1653045051688,
   :block/updated-at 1653045051688}
@@ -332,6 +436,12 @@
  {:block/name "推荐系统",
   :block/created-at 1652746652877,
   :block/updated-at 1652746652877}
+ {:block/name "搜索技术",
+  :block/created-at 1656146251999,
+  :block/updated-at 1656146251999}
+ {:block/name "有限与无限的游戏",
+  :block/created-at 1656146252340,
+  :block/updated-at 1656146252340}
  {:block/name "机器学习",
   :block/created-at 1652914362281,
   :block/updated-at 1652914362281}
@@ -359,9 +469,18 @@
  {:block/name "王喆",
   :block/created-at 1654123376635,
   :block/updated-at 1654123376635}
+ {:block/name "王磊",
+  :block/created-at 1656146261756,
+  :block/updated-at 1656146261756}
+ {:block/name "生活百科",
+  :block/created-at 1656146261525,
+  :block/updated-at 1656146261525}
  {:block/name "电商算法",
   :block/created-at 1652914362549,
   :block/updated-at 1652914362549}
+ {:block/name "知识管理",
+  :block/created-at 1656146252349,
+  :block/updated-at 1656146252349}
  {:block/name "第一性原理",
   :block/created-at 1654125532307,
   :block/updated-at 1654125532307}
@@ -374,9 +493,21 @@
  {:block/name "系统架构",
   :block/created-at 1654128006413,
   :block/updated-at 1654128006413}
+ {:block/name "系统流程",
+  :block/created-at 1656146261374,
+  :block/updated-at 1656146261374}
+ {:block/name "综述",
+  :block/created-at 1656146262145,
+  :block/updated-at 1656146262145}
  {:block/name "网易技术",
   :block/created-at 1654128006437,
   :block/updated-at 1654128006437}
+ {:block/name "美团技术",
+  :block/created-at 1656146251999,
+  :block/updated-at 1656146251999}
+ {:block/name "胶囊网络",
+  :block/created-at 1656146262126,
+  :block/updated-at 1656146262126}
  {:block/name "腾讯技术",
   :block/created-at 1654123376923,
   :block/updated-at 1654123376923}
@@ -395,12 +526,18 @@
  {:block/name "谷歌技术",
   :block/created-at 1654123378607,
   :block/updated-at 1654123378607}
+ {:block/name "费曼学习法",
+  :block/created-at 1656146252468,
+  :block/updated-at 1656146252468}
  {:block/name "软技能",
   :block/created-at 1654124864005,
   :block/updated-at 1654124864005}
  {:block/name "过拟合",
   :block/created-at 1652914534926,
   :block/updated-at 1652914534926}
+ {:block/name "重排",
+  :block/created-at 1656146262113,
+  :block/updated-at 1656146262113}
  {:block/name "阿里妈妈",
   :block/created-at 1652914362547,
   :block/updated-at 1652914362547}
